@@ -3,7 +3,9 @@
 Hi, I’m a passionate Frontend Developer who loves building elegant and functional web applications. I’m continuously learning and improving my skills to become a proficient Full Stack Developer. My current focus is mastering modern tools and frameworks to deliver high-quality, scalable solutions.
 
 [![LinkeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-bezerra)
-[![My Portfólio](https://img.shields.io/badge/portfólio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://nicolas-silva-portifolio.vercel.app)
+[![My Portfólio](https://img.shields.io/badge/my_portfólio-0A0A0A?style=for-the-badge&logo=&logoColor=white)](https://nicolas-silva-portifolio.vercel.app)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasBe23&size_weight=0.5&count_weight=0.5&theme=dracula)
 
 ## Technologies I’m Learning 🚀
 
