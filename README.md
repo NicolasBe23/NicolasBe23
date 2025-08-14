@@ -40,6 +40,6 @@ I’m open to working on exciting projects, contributing to open-source, or just
 ### Contact Me 📫
 Email: nicolasbezerra13@gmail.com
 
-GitHub: github.com/NicolasBe23
+Portfólio: https://nicolassilva.pt
 
 LinkedIn: linkedin.com/in/nicolas-bezerra
