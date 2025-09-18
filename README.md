@@ -42,4 +42,4 @@ Email: nicolasbezerra13@gmail.com
 
 Portfólio: https://nicolassilva.pt
 
-LinkedIn: linkedin.com/in/nicolas-bezerra
+LinkedIn: https://www.linkedin.com/in/nicolas-bezerra
